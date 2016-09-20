@@ -1,0 +1,6 @@
+[mNotice: Compiled catalog for clientpuppet.minsk.epam.com in environment production in 0.73 seconds[0m
+[mNotice: Nginx is installed.[0m
+[mNotice: /Stage[main]/Main/Notify[Nginx is installed.]/message: defined 'message' as 'Nginx is installed.'[0m
+[mNotice: Nginx is running.[0m
+[mNotice: /Stage[main]/Main/Notify[Nginx is running.]/message: defined 'message' as 'Nginx is running.'[0m
+[mNotice: Applied catalog in 0.16 seconds[0m
