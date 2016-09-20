@@ -1,4 +1,4 @@
-###t Puppet task_11 
+### Puppet task_11 
 ##
 ![](/sources/Screenshot.png)
 ![](/sources/Screenshot-1.png)
